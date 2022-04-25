@@ -3,7 +3,6 @@ title: Getting ready for 2019's directives
 date: 2018-11-16T22:55:00-0300
 description:
 tags:
-  - 2019
   - self
 ---
 

@@ -3,7 +3,7 @@ title: ¿Qué hace un líder técnico?
 date: 2019-08-27T09:03:00-0300
 description:
 tags:
-  - lidership
+  - leadership
   - quotes
 ---
 
