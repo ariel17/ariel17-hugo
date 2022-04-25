@@ -1,13 +1,16 @@
 ---
 title: Me
-date: "2015-09-11T01:20-0300"
-description: ""
+date: 2015-09-11T01:20:00-0300
+description:
+tags:
+  - about
+  - self
 ---
 
 My name is **Ariel Gerardo Ríos** and I am a father, husband and software
 developer.
 
-![Me](/assets/about/me-900x900.png)
+![Me](me-900x900.png)
 
 I like to spend time learning new things and how the head works learning it,
 building habits and understanding how human relationships work. Also [I like to
