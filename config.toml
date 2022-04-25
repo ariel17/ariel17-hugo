@@ -11,8 +11,7 @@ disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
 ## Change this two to switch between different language
-# languageCode = "en"           # For RSS, view https://www.rssboard.org/rss-language-codes
-languageCode = 'en-us'
+languageCode = "en"           # For RSS, view https://www.rssboard.org/rss-language-codes
 defaultContentLanguage = "en" # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 
 summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
@@ -31,10 +30,10 @@ path = "/search/"
 home = ["HTML", "RSS", "SearchIndex"]
 
 [permalinks]
-post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
+posts = "/:year/:month/:day/:title/"
 
 [params]
-author = "DSRKafuU"                # You can also set author in post front matter individually
+author = "Ariel Gerardo Ríos"                # You can also set author in post front matter individually
 subTitle = "I do things."
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
@@ -68,10 +67,10 @@ copyrightStartYear = "2022"
 # Open Graph & Twitter Card variables
 # You can also set description and images in post front matter individually
 description = "I do things."
-og = "/img/og.png"                                          # This will use the image called og.png in static/img folder
+og = "/img/og.png" # This will use the image called og.png in static/img folder
 
 # Posts shown in homepage
-mainSections = ["post"]
+mainSections = ["posts"]
 
 # Bangumi image chart id
 # bgmImageChart = "000000"
