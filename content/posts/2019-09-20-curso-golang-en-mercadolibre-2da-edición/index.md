@@ -35,10 +35,10 @@ Los temas que se abordaron en la misma fueron:
 
 [Link a la charla del día #2](https://go-talks.appspot.com/github.com/mercadolibre/golang-tutorial-public/go-talks/public_workshop_2019_spring/go-day2.slide#1)
 
-![1](/assets/golang-2019/1.jpeg)
+![1](1.jpeg)
 
-![2](/assets/golang-2019/2.jpeg)
+![2](2.jpeg)
 
-![3](/assets/golang-2019/3.jpeg)
+![3](3.jpeg)
 
-![4](/assets/golang-2019/4.jpeg)
+![4](4.jpeg)

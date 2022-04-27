@@ -85,7 +85,7 @@ of it, my requirements are as follow:
 
 This is what I have and see:
 
-![raw vim](/assets/vim/raw-vim.png)
+![raw vim](raw-vim.png)
 
 ## Visuals
 
@@ -100,7 +100,7 @@ set colorcolumn=80  " 80 chars mark
 au BufRead,BufNewFile *.md setlocal textwidth=80
 au BufRead,BufNewFile *.apib setlocal textwidth=80
 ```
-![visuals](/assets/vim/vim-visuals.png)
+![visuals](vim-visuals.png)
 
 ## Pathogen
 
@@ -140,7 +140,7 @@ let g:solarized_termcolors=256
 colorscheme solarized
 ```
 
-![solarized](/assets/vim/solarized.png)
+![solarized](solarized.png)
 
 ## Airline
 
@@ -265,7 +265,7 @@ $ git clone git@github.com:fatih/vim-go.git ~/.vim/bundle/vim-go
 
 When I execute the command `vim a.go`, I see the following:
 
-![vim-go](/assets/vim/vim-go.png)
+![vim-go](vim-go.png)
 
 I prefer `goimports` to resolve missing imports and adjust code layout, also I
 want to do it every time I save the file. Adding this to `.vimrc` will do:

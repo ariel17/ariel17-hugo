@@ -20,7 +20,7 @@ tags:
   The downside is that it could lead to burnout due to stress on my own
   pressure to complete them if the scope of tasks is too much.
 
-  ![Personal Trello](/assets/lessons-learned-vii/trello.png)
+  ![Personal Trello](trello.png)
 
 * **Make time worth; complete tasks in one shot makes more time available:**
   Take a task, sit my ass down and complete it in one shot makes more time

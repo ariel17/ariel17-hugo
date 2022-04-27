@@ -14,7 +14,7 @@ que me rodea.
 
 En mis pensamientos que te buscan sin decir una palabra.
 
-![Telma](/assets/telma.jpg)
+![Telma](telma.jpg)
 
 Y revolviendo esa basura sin sentido... te encontré en la distancia. La ventana
 a los recuerdos se abrió y me doy cuenta que pasaron 20 años en un latido. Que

@@ -29,7 +29,7 @@ El amor y el dolor, tan intensos, **nuevos**. Un camino que se abre frente a
 nosotros, pleno y completamente nuestros. Una de las épocas más felices de mi
 vida, pero no la última. :)
 
-![notas](/assets/insects/notes.jpeg)
+![notas](notes.jpeg)
 *"Liberé el poder dentro de mi cuerpo y el Universo se expandió"*
 
 [La canción que le da nombre a este post][1] me apareció entre las listas de

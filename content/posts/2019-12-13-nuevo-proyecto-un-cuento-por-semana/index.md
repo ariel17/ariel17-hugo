@@ -7,7 +7,7 @@ tags:
 ---
 
 
-![Un Cuento Por Semama](/assets/uncuentoporsemana/page.png)
+![Un Cuento Por Semama](page.png)
 
 A principios de Diciembre de este año lanzamos con mi hijo Martín una página
 web donde publicamos cuentos cortos una vez por semana: [Un Cuento Por

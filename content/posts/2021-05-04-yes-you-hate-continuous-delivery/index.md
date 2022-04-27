@@ -12,7 +12,7 @@ Yes, you hate it. And your team does too. Because it forces you to be
 continuously responsible and aware of what is going to production and that, my
 friend, is very hard.
 
-![hate](/assets/hate-cd/hate.jpeg)
+![hate](hate.jpeg)
 Source: [Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/mh625j/story_of_my_life/)
 
 Since software development processes simulates industrial factory ones you can

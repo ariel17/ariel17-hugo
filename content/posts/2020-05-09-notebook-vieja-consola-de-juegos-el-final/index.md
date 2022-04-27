@@ -17,9 +17,9 @@ que comprar [un adaptador de VGA a HDMI][1] para poder ver la salida
 secundaria. Sabía que la había dejado siempre activa en la BIOS. La resolución
 era pésima, pero al menos se veía la pantalla.
 
-![VGA adapter](/assets/console/1.jpg)
+![VGA adapter](1.jpg)
 
-![Output](/assets/console/2.jpg)
+![Output](2.jpg)
 
 ## 2. No pude ver la pantalla de booteo -> no podía ingresar a la BIOS.
 La pantalla de booteo al parecer sólo aparecer en el display integrado, el cual
@@ -28,7 +28,7 @@ ver. Por suerte mi yo del pasado, atento a mi gusto de reinstalar sistemas
 operativos múltiples veces dejó el boot order en USB -> Disco 😎. Quemé el ISO
 de Ubuntu en un USB y salió andando.
 
-![Installing](/assets/console/3.jpg)
+![Installing](3.jpg)
 
 ## 3. No podía utilizar la salida HDMI #2
 Confiando que Ubuntu iba a identificar y activar la salida HDMI sin mucho
@@ -39,7 +39,7 @@ efectivamente mostraba el menú en la salida VGA y pude configurar que las
 pantallas sean mirror (HDMI como primario se lagueaba). Listo, chau VGA y
 adaptador.
 
-![Resolution](/assets/console/4.jpg)
+![Resolution](4.jpg)
 
 ## 3. No podía forzar el uso de la placa ATI con Steam.
 Necesitaba esa placa ATI andando porque sólo se podían jugar jueguitos simil 8
@@ -63,7 +63,7 @@ DRI_PRIME=1 SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS=0 /usr/games/steam %U
 
 Y listo el pollo 👍.
 
-![Hollow Night on Steam console](/assets/console/5.jpg)
+![Hollow Night on Steam console](5.jpg)
 
 [1]: https://www.youtube.com/watch?v=FUEMpHuF8Qc
 [2]: https://github.com/ValveSoftware/steam-for-linux/issues/4611
