@@ -1,6 +1,6 @@
 ---
 title: Unnamed fantasies III
-date: 2019-08-29 12:58 -0300
+date: 2019-08-29T12:58:00-0300
 description:
 tags:
   - writing
