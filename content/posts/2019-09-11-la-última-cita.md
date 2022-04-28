@@ -4,6 +4,7 @@ date: 2019-09-11T00:26:00-0300
 description:
 tags:
   - writing
+  - fiction
 ---
 
 

@@ -4,6 +4,7 @@ date: 2017-02-19T14:45:00-0300
 description:
 tags:
   - writing
+  - self
 ---
 
 

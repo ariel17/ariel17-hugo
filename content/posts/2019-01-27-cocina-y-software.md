@@ -3,6 +3,7 @@ title: Cocina y software
 date: 2019-01-27
 description:
 tags:
+  - writing
   - software
   - cooking
 ---

@@ -4,6 +4,7 @@ date: 2019-08-29T12:58:00-0300
 description:
 tags:
   - writing
+  - fiction
   - wip
 ---
 

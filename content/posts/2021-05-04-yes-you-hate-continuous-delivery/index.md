@@ -4,7 +4,8 @@ date: 2021-05-04T10:47:00-0300
 description:
 tags:
   - management
-  - ci
+  - ci/cd
+  - software
 ---
 
 
